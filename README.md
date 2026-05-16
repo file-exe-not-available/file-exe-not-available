@@ -1,17 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sharvi Arora</h1>
+<h3 align="center">Computer Science Student | AI & Data Analytics Enthusiast</h3>
 
-<!--
-**file-exe-not-available/file-exe-not-available** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about artificial intelligence, machine learning, data analytics, and bioinformatics.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=file-exe-not-available&show_icons=true&theme=tokyonight)
+## 🚀 About Me
+
+- 🎓 Computer Science student at the University of Cincinnati
+- 🤖 Interested in AI, Machine Learning, and Data Science
+- 📊 Exploring predictive modeling, analytics, and research applications
+- 💻 Working with Python, C++, and data-driven projects
+- 🧠 Interested in bioinformatics and technology in healthcare
+- 🌱 Currently learning more about machine learning and advanced analytics
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux,mysql" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔬 Current Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Bioinformatics
+- Research & Academia
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Natural Gas Price Prediction
+Time-series forecasting project using statistical and machine learning techniques.
+
+### 🃏 Ride The Bus Card Game
+Python-based card game implementation using PyDealer.
+
+### 📉 Data Analytics Projects
+Projects involving exploratory data analysis, visualization, and predictive modeling.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Always learning, building, and exploring new technologies
+</p>
