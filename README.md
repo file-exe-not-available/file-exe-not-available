@@ -9,11 +9,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at the University of Cincinnati
+- 🎓 Computer Science student at the University of Pittsburgh
 - 🤖 Interested in AI, Machine Learning, and Data Science
 - 📊 Exploring predictive modeling, analytics, and research applications
 - 💻 Working with Python, C++, and data-driven projects
-- 🧠 Interested in bioinformatics and technology in healthcare
 - 🌱 Currently learning more about machine learning and advanced analytics
 
 ---
@@ -47,15 +46,12 @@
 - Artificial Intelligence
 - Machine Learning
 - Data Analytics
-- Bioinformatics
+- Networks
 - Research & Academia
 
 ---
 
 ## 📌 Featured Projects
-
-### 📊 Natural Gas Price Prediction
-Time-series forecasting project using statistical and machine learning techniques.
 
 ### 🃏 Ride The Bus Card Game
 Python-based card game implementation using PyDealer.
